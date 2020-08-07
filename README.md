@@ -36,6 +36,12 @@ THomas High School was formerly ranked as the #2 overall school then dropped to 
   
   Since Thomas is in the Charter category, District schools are unaffected. Charter %passing math went from 94% to 90%, %passing reading went from 97% to 95%, and %overall passing went from 90% to 87%.
   
+  https://github.com/jasonatoledo/Python_School_District_Analysis/blob/master/Resources/Original_Schools_by_type.png  
+  
+  vs
+  
+  https://github.com/jasonatoledo/Python_School_District_Analysis/blob/master/Resources/New_Schools_by_type.png
+  
   
 ## Summary
 
