@@ -8,7 +8,11 @@ In the Python school district analysis challenge, I was tasked with replacing th
 
 - How is the district summary affected?
 
-Passing reading %, passing math %, and the overall passing % all went down by ~1%
+Passing reading %, passing math %, and the overall passing % all went down by ~1% See the examples:
+
+Old: https://github.com/jasonatoledo/Python_School_District_Analysis/blob/master/Resources/Old_District_Summary.png
+
+New: https://github.com/jasonatoledo/Python_School_District_Analysis/blob/master/Resources/New_District_Summary.png
 
 - How is the school summary affected?
 
