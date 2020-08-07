@@ -12,11 +12,11 @@
 
 - How does replacing the ninth-grade scores affect the following:
 
- - Math and reading scores by grade
+  - Math and reading scores by grade
  
- - Scores by school spending
+  - Scores by school spending
  
- - Scores by school size
+  - Scores by school size
  
- - Scores by school type
+  - Scores by school type
 
