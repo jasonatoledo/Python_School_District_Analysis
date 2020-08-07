@@ -30,7 +30,7 @@ THomas High School was formerly ranked as the #2 overall school then dropped to 
  
   - Scores by school spending
   
-  The school spending & bucket that Thomas High School is in is unaffectet but as with the school summary, the overall passing, reading, and math scores are down in overall passing. As for the school spending summary, Thomas dropped the $630-644 bucket from 63% to 56% overall passing and dropped math by 6% and reading by 3% compared to the original spending summary.
+  The school spending & bucket that Thomas High School is in is unaffected but as with the school summary, the overall passing, reading, and math scores are down in overall passing. As for the school spending summary, Thomas dropped the $630-644 bucket from 63% to 56% overall passing and dropped math by 6% and reading by 3% compared to the original spending summary.
  
   - Scores by school size
   
@@ -48,4 +48,16 @@ THomas High School was formerly ranked as the #2 overall school then dropped to 
   
   
 ## Summary
+
+The 4 major changes I noticed after replacing the Thomas High School 9th grade reading and math scores with NaN values are:
+
+1) The overall passing rate for Thomas High School dropped from ~90% to ~65%
+
+2) Thomas High School dropped from the number 2 school in the district to the number 8 school
+
+3) Medium sized schools overall passing rate dropped from 91% to 85%
+
+4) For spending by school, Thomas High School dropped the $630-644 bucket from 63% to 56% overall passing
+
+It is amazing how drastic some of the changes were for only changing 2 values out of all the schools and grade levels.
 
